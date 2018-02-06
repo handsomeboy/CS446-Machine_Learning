@@ -1,5 +1,5 @@
 # CS446-Machine_Learning
-- MPs
+MPs
 1. Tensorflow basics
 2. Linear Regression
 3. Binary Classification
