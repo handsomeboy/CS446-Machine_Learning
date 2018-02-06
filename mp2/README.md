@@ -1,1 +1,1 @@
-#2. Linear Regression
+# Assignment 2: Linear Regression
