@@ -1,1 +1,1 @@
-# Assignment 3. Binary Classification
+# Binary Classification
