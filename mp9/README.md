@@ -1,1 +1,2 @@
-# Gaussian Mixture Model
+# Assignment 3
+
