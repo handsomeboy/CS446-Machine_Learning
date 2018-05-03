@@ -1,0 +1,2 @@
+model_checkpoint_path: "Pong-dqn-150000"
+all_model_checkpoint_paths: "Pong-dqn-150000"
